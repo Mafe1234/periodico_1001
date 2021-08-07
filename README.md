@@ -13,3 +13,4 @@ El proyecto más inmediato vuelve de la mano de MercurySteam con Metroid Dread -
 A medio o largo plazo llegará el esperado Metroid Prime 4, que fue anunciado en 2017 pero sufrió un reinicio y cambio de desarrolladora -una vez más se encarga Retro- en 2019. Poco se sabe del juego, pero se espera que antes llegue la rumoreada trilogía remasterizada para Nintendo Switch.
 
 Una de las características más influyentes de Metroid fue su exploración no lineal de escenarios y la obtención de potenciadores. Junto con Castlevania: Symphony of the Night de 1997 estos juegos pusieron los cimientos para este subgénero metroidvania que, ya sea con plataformas 2D o en mapas 3D, nos ofrece diversas rutas y algunos lugares inaccesibles para los cuales hay que volver más adelante, cuando disponemos de algún poder o arma que facilita progresar por estas rutas.
+·
