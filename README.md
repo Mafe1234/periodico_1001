@@ -1,4 +1,4 @@
-# periodico_1001
+# VIDEOJUEGOS
 Metroid cumple 35 años; se muestra un nuevo teaser de Metroid Dread
 
 La saga de Samus Aran debutó en 1986 y sentó las bases de los llamados 'metroidvania'; este octubre se lanza Metroid Dread y próximamente Metroid Prime 4.
